@@ -1,5 +1,4 @@
 import pyaudio
-import wave
 import ctypes
 import webrtcvad
 import numpy as np

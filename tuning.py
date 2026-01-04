@@ -1,3 +1,9 @@
+"""
+Note: This library (tuning.py) was developed by Seeed Studio for the 
+ReSpeaker 4-Mic Array V2.0. It is used here to interface with the 
+on-board XMOS pixel ring and hardware beamformer.
+"""
+
 # -*- coding: utf-8 -*-
 
 import sys

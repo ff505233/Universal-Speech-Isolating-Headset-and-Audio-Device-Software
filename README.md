@@ -12,5 +12,7 @@ on-board XMOS microphone array and hardware beamformer.
 Credits: 
 
 tuning.py -> https://github.com/respeaker/usb_4_mic_array
+
 rnnoise (nueral network used for denoising) -> https://github.com/xiph/rnnoise
+
 WebRTCVAD (Voice activity detection) -> https://github.com/wiseman/py-webrtcvad
